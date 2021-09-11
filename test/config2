@@ -1,0 +1,6 @@
+{
+    "musicserver": {
+        "songdir": "/home/toni/projects/music-server/songs",
+        "playlistsize": 2
+    }
+}
